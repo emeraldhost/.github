@@ -1,7 +1,5 @@
 # 🌐 Welcome to EmeraldHost.de
 
----
-
 At EmeraldHost, we offer a wide range of prepaid services 🖥️, including VPS, TeamSpeak servers 🎤, domains, and an array of game servers 🎮 such as Minecraft, Rust, ARK: Survival Evolved, and Satisfactory. Our mission is to provide our customers with unparalleled service and outstanding value for money 💰. With our state-of-the-art DDoS protection 🛡️ and top-quality server hardware from renowned brands, you can rely on secure and dependable use of our services.
 
 Our dedicated 24/7 support team 👥 is always on standby to assist you with any questions or issues, and our products are activated within a mere 60 seconds ⏱️. Manage your servers and domains with ease through our intuitive web interface 🖱️.
